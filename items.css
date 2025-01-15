@@ -1,0 +1,58 @@
+/* body{
+    background-image: url("bg.jpg");
+} */
+
+#close{
+    margin-left: 10;
+}
+#logocontainer{
+    height: 250px;
+    width: 400px;
+   
+    background-color:rgba(71, 70, 70, 0.474);
+    border-radius: 20px;
+    border-width: 10px;
+position: relative;
+left: 400px;
+top: 90px;
+}
+body{
+    /* background-image: url("bg.jpg"); */
+background-size: cover;
+background-color: white;
+}
+#close{
+    width:350px;
+   height: 50px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+margin-left: 20px;
+}
+#signup{
+    width:350px;
+    height: 50px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+margin-left: 20px;
+/* background-color: red; */
+font-size: 300px;
+}
+#signup{
+    height: 150px;
+       /* background-color: red; */
+
+display: flex;
+justify-content: space-between;
+
+/* align-items: center; */
+}
+#name{
+    
+    width: 350px;
+        height: 35px;
+      
+    }
